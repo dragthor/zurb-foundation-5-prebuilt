@@ -1,0 +1,15 @@
+{
+  "name": "zurb-foundation-5-prebuilt",
+  "version": "5.5.3",
+  "description": "Get started quickly with the most advanced responsive front-end framework in the world.",
+  "keywords": [ "zurb", "zurb-foundation", "zurb-5" ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragthor/zurb-foundation-5-prebuilt.git"
+  },
+  "author": "Kris Krause",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dragthor/zurb-foundation-5-prebuilt/issues"
+  }
+}
