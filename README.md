@@ -3,6 +3,10 @@ Zurb's Foundation 5 - prebuilt. Get started quickly.  No need for SASS, bower, g
 
 [![npm version](https://badge.fury.io/js/zurb-foundation-5-prebuilt.svg)](https://badge.fury.io/js/zurb-foundation-5-prebuilt)
 
+## Notes
+The code contained in the package is the same as the official release.  Except:
+* jQuery v3+ seems to be causing a JavaScript error, so I packaged up jQuery v2.2.4
+
 ## Home
 http://foundation.zurb.com
 
