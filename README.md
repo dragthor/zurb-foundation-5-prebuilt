@@ -5,7 +5,7 @@ Zurb's Foundation 5 - prebuilt. Get started quickly.  No need for SASS, bower, g
 
 ## Notes
 The code contained in the package is the same as the official release.  Except:
-* jQuery v3+ seems to be causing a JavaScript error, so I packaged up jQuery v2.2.4
+* jQuery v3.x seems to be causing a JavaScript error in Chrome, so I packaged up jQuery v2.2.4
 
 ## Home
 http://foundation.zurb.com
